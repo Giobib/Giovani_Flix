@@ -158,7 +158,7 @@ a {
 }
 
 @media (max-width: 430px){
-    .barra_pesquisa img{
+    .barra_pesquisa img,.logo_yt img{
         display: none;
     }
 }

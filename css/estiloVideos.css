@@ -92,6 +92,7 @@ main{
     gap: 10px;
     margin-bottom: 15px;
     width: 400px;
+    max-width: 100%;
 }    
 
 .item_video img{
