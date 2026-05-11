@@ -158,7 +158,20 @@ a {
 }
 
 @media (max-width: 430px){
-    .barra_pesquisa img,.logo_yt img{
+    .barra_pesquisa img{
         display: none;
+    }
+
+    header{
+        padding: 0;
+    }
+
+    .logo_yt img{
+        width: 30px;
+    }
+
+    .item_menu img{
+        width: 20px;
+        height: 20px;
     }
 }
