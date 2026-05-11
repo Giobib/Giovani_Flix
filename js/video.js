@@ -30,7 +30,15 @@ const videos = {
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur sed, voluptatibus error praesentium quo molestiae alias voluptate culpa harum dolores impedit repellat temporibus, doloremque a ea facere optio enim odit.",
         video: "/arquivos_videos/silksong.mp4"
     },    
-
+Etec: {
+        titulo: "Etec melhor escola do mundo",
+        autor: "Giovani",
+        data: "11/05/26",
+        tumb: "/imagens/card/tumb_feijoada.jpg",
+        canal: "/imagens/card/canal_feijoada.jpg",
+        descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur sed, voluptatibus error praesentium quo molestiae alias voluptate culpa harum dolores impedit repellat temporibus, doloremque a ea facere optio enim odit.",
+        video: "/arquivos_videos/silksong.mp4"
+   
     marvel: {
         titulo: "Novos Vingadores - Canal Gaveta",
         autor: "DC comics",
