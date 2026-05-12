@@ -161,6 +161,7 @@ a {
 
 .resultado_pesquisa.escondido, .sem_resultado.escondido{
     opacity: 0;
+    padding: 0;
 }
 
 @media (max-width: 900px){
