@@ -147,6 +147,22 @@ a {
     flex-direction: column;
 }
 
+.resultado_pesquisa, .sem_resultado{
+    text-align: center;
+    padding: 20px;
+    opacity: 0;
+    transition: 1s;
+    color: white;
+}
+
+.resultado_pesquisa.visivel, .sem_resultado.visivel{
+    opacity: 1;
+}
+
+.resultado_pesquisa.escondido, .sem_resultado.escondido{
+    opacity: 0;
+}
+
 @media (max-width: 900px){
     .logo_yt > h1, .item_menu > span{
         display: none;
